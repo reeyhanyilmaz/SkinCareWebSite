@@ -1,6 +1,6 @@
 # SkinCareWebSite
 
-## https://shinyskintips.com
+## [https://shinyskintips.com](https://shinyskintips.vercel.app/tr)
 
 ## Technologies
 - NextJS and TypeScript
